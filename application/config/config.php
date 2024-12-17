@@ -25,7 +25,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 */
 
 // Base Url Static
-$config['base_url'] = 'http://localhost/My_projects/Koding-dESKomputer/';
+$config['base_url'] = 'http://localhost/projects/ci3-expert-system-naive-bayes-classifier';
 
 // Base Url Dinamis
 // $config['base_url'] = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
